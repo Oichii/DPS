@@ -1,3 +1,7 @@
+"""
+Based on:
+https://gitlab.idiap.ch/bob/bob.paper.deep_pix_bis_pad.icb2019
+"""
 from torch import nn
 
 
