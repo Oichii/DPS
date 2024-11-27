@@ -1,0 +1,3 @@
+download data
+ISIC Dataset: https://challenge.isic-archive.com/data/
+PH2 Dataset: https://www.fc.up.pt/addi/ph2%20database.html

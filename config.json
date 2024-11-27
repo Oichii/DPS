@@ -1,0 +1,7 @@
+{
+  "csvPath": "data\\train.csv",
+  "imagesPath": "data\\images\\" ,
+  "masksPath": "data\\masks\\",
+  "savePath": "save",
+  "resumePath": ""
+}
